@@ -8,10 +8,26 @@ body{
 
 
     h1{
-        color: crimson;
+        color: white;
         font-size: 35px;
-        }
 
+    }
+
+   
+    header {
+          border-bottom: solid 2px;
+          margin: 20px;
+          font-size: 32px;
+          color: black;
+
+     }
+     section{
+        padding-bottom: 80px;
+        padding-top: 80px;
+        background: crimson;
+        display: flex;
+        justify-content: center;
+     }
         P{
             font-size: 25px;
         }
